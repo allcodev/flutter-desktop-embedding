@@ -15,8 +15,7 @@ of the plugins here.
 
 **Do not file issues about Flutter for desktop here.** Since the
 embeddings have all moved to the Flutter project, the place for desktop bugs
-and feature requests is now [the Flutter issue
-tracker](https://github.com/flutter/flutter/issues).
+and feature requests is now [the Flutter issue tracker](https://github.com/flutter/flutter/issues).
 
 For bug reports and feature requests **related to the plugins in this repository**,
 please file issues here. Before filing a bug, see Supported Versions below.
